@@ -1,0 +1,3 @@
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/bin/Debug/net6.0/publish/ClassLibrary1.dll
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/bin/Debug/net6.0/publish/ClassLibrary1.deps.json
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/bin/Debug/net6.0/publish/ClassLibrary1.pdb

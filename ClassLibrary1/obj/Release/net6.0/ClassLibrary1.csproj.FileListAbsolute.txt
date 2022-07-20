@@ -1,0 +1,12 @@
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/bin/Release/net6.0/ClassLibrary1.deps.json
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/bin/Release/net6.0/ClassLibrary1.dll
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/bin/Release/net6.0/ClassLibrary1.pdb
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/obj/Release/net6.0/ClassLibrary1.csproj.AssemblyReference.cache
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/obj/Release/net6.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/obj/Release/net6.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/obj/Release/net6.0/ClassLibrary1.AssemblyInfo.cs
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/obj/Release/net6.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/obj/Release/net6.0/ClassLibrary1.dll
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/obj/Release/net6.0/refint/ClassLibrary1.dll
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/obj/Release/net6.0/ClassLibrary1.pdb
+/Users/mario/RiderProjects/Demo.MultiPorjectPublish/ClassLibrary1/obj/Release/net6.0/ref/ClassLibrary1.dll
